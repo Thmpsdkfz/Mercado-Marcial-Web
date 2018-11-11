@@ -1,3 +1,2 @@
 # Mercado-Marcial-Web
-Página web de mi tienda online Mercado Marcial (desarrollo)
-Se modificó la página web con php en la tienda de kimonos para hacerla mas eficiente y menos pesada jalando los datos desde MySql. 
+Esta página será la base de mi tienda online que tengo pensando desarrollar, se venderá kimonos de Bjj y también ropa con diseños artisticos, es un proyecto que tengo en mente desde hace un año aproximadamente.
